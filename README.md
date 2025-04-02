@@ -21,6 +21,17 @@ The Development and Operation of Generative AI must be trustworthy, effective, a
 
 ## Repository Structure
 
+```
+📦 
+.gitignore
+LICENSE
+README.md
+docs
+│  └─ 01-Introduction-to-DevOps-Principles-for-ML.md
+└─ media
+```
+
 ## Additional Resources
 
 - [GenAIOps Generative AI Operations | The Centre for GenAIOps](https://genaiops.ai/)
+- [Project Tree Generator](https://woochanleee.github.io/project-tree-generator)
